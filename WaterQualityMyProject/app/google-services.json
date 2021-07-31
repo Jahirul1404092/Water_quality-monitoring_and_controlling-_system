@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233538268466",
+    "firebase_url": "https://nodemcu-3bc23-default-rtdb.firebaseio.com",
+    "project_id": "nodemcu-3bc23",
+    "storage_bucket": "nodemcu-3bc23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233538268466:android:6066266bd876dc81a8bb2b",
+        "android_client_info": {
+          "package_name": "com.amsa.waterqualitymyproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233538268466-6gpccigpje8lvtnmehh97v8j17g7i17j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amsa.waterqualitymyproject",
+            "certificate_hash": "2909812d4fcb3b0c93221c47cf1833540da51ae9"
+          }
+        },
+        {
+          "client_id": "233538268466-8k1qgr82srluotv35enbhakl17g18g9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsx5BHQ6f1UF2fmtyC3S5lerGQVeOjBF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233538268466-8k1qgr82srluotv35enbhakl17g18g9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
